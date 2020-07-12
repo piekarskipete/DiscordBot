@@ -1,0 +1,24 @@
+{
+  "name": "discordbot",
+  "version": "1.0.0",
+  "description": "Discord Bot",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js",
+    "dev:watch": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/p-piekarski/DiscordBot.git"
+  },
+  "author": "Piotr Piekarski p-piekars",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/p-piekarski/DiscordBot/issues"
+  },
+  "homepage": "https://github.com/p-piekarski/DiscordBot#readme",
+  "dependencies": {
+    "discord.js": "^12.2.0"
+  }
+}
